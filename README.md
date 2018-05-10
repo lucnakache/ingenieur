@@ -6,4 +6,4 @@ L'objectif de ce repo est de parser le document data/annuaire88.pdf qui contient
 * RECOMPENSES
 * LIEU(X) DE TRAVAIL
 
-![Alt text](/images/homepage.png?raw=true "Title")
+![Alt text](/images/homepage.PNG?raw=true "Title")
